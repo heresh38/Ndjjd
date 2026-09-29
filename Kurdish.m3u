@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rudaw" tvg-name="Rudaw" tvg-logo="https://photos.smugmug.com/Rudaw-logo/i-7WVWZvk/0/7757f044/M/unnamed-M.png" group-title="KRD News",Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 tvg-id="K24" tvg-name="K24 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ54KZVUIESBm87JuL4Kh7He5Gyq7bpxdgseb7xBSFCNg&s" group-title="KRD News",K24 FHD
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="NRT" tvg-name="NRT" tvg-logo="https://archive.org/download/sazan_logo_gallery_image_1785001965091/NRT_NEWS_.png" group-title="KRD News",NRT
+https://hlspackager.akamaized.net/live/DB/NRT_HD/HLS/NRT_HD-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="Channel8" tvg-name="Channel 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0cRMylt9FVZfSGc3fxkHegG580fGqN5dbd7IXz5Vj_w&s=10" group-title="KRD News",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+#EXTINF:-1 tvg-id="KurdsatNews" tvg-name="Kurdsat News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3j_g3H9TsH22SoBtZcMkRyspRxPJ6NR8hd0hJsLhlA&s=10" group-title="KRD News",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-id="GaliKurdistan" tvg-name="Gali Kurdistan" tvg-logo="https://www.gksat.tv/images/logo.png" group-title="KRD News",Gali Kurdistan
+https://live.host247.net/gk/gksat/chunklist_w950982176.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV" tvg-name="Kurdistan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoOl3Vei2ZlXLV9wabf6D695LYqglHO0fRXXdg-m26MQ&s=10" group-title="KRD News",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV" tvg-name="Zagros TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJo07oIYLJ0sG1hPkt9gU-ccxbrH_xbXKUlQvzmOMcg&s=10" group-title="KRD News",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamTV" tvg-name="Payam TV" tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/payam-tv-e1591222452158-800x800.jpg" group-title="KRD News",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/chunklist_w1556137030.m3u8
+#EXTINF:-1 tvg-id="ShamsTV" tvg-name="Shams TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQxRTXwX0JK_0OCgeHqtm7X3c9BWJ_snWzkQN5npXog&s=10" group-title="KRD News",Shams TV
+https://stream.shams.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="AVATV" tvg-name="AVA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHjoEAP1GGyOn-_z3KpXocINiq6Pjo4RR3OpRoEf5G4w&s=10" group-title="KRD News",AVA TV
+https://ava2.store/upload/ava.m3u8
+#EXTINF:-1 tvg-id="SpedaTV" tvg-name="Speda TV" tvg-logo="https://archive.org/download/sazan_logo_gallery_image_1786207917673/SPEDATV.png" group-title="KRD News",Speda TV
+http://superp4.xyz/MP5Z6J8/VC5LNFM/54072
+#EXTINF:-1 tvg-id="KirkukTV" tvg-name="Kirkuk TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_LynayhAQ77VE4BcNJUhaScjIO5iEsC03eGlQflXUw&s=10" group-title="KRD News",Kirkuk TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="RozhelatTV" tvg-name="Rozhelat TV" tvg-logo="https://www.rojhelat.media/wp-content/uploads/2026/01/logo-mob-2.png" group-title="KRD News",Rozhelat TV
+https://hlspackager.akamaized.net/live/DB/ROJHELAT/HLS/ROJHELAT-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="Kurdsat" tvg-name="KURDSAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HVYkR5sv7xyjp7TdVE0e42uroV6P9pEkQcZ7x1husw&s=10" group-title="Kurdish",KURDSAT
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+#EXTINF:-1 tvg-id="SterkTV" tvg-name="Sterk TV" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="Kurdish",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi" tvg-name="TRT Kurdi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsua7fLdBOXvDXGnd54GxPAtYwniY04wQ9pPh7-zCFQQ&s=10" group-title="Kurdish",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="WaarTV" tvg-name="WAAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-_1CZfSn2DQlFDm7dUuTdGPYtlIMFNgaLbvbk_0xAA&s=10" group-title="Kurdish",WAAR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 tvg-id="WelatTV" tvg-name="Welat TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG16qAp5EpowBJTeXmv6gizv2KtJmzxY0zJqNhiWTMvw&s=10" group-title="Kurdish",Welat TV
+https://stream.badinan.xyz/welat/tv/chunklist_w676236754.m3u8
+#EXTINF:-1 tvg-id="KurdChannel" tvg-name="Kurd Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXFOvb3c0eMF4_5EDFePU_0S8RP1CjMByw9QpfAyt_w&s=10" group-title="Kurdish",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Komala" tvg-name="Komala" tvg-logo="https://rashaba.com/assets/images/ch_logo/komala_v1.webp" group-title="Kurdish",Komala
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="NRT2" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="Kurdish",NRT 2
+https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
+#EXTINF:-1 tvg-id="NRT4" tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="Kurdish",NRT 4
+https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
+#EXTINF:-1 tvg-id="IraqiaKurdish" tvg-name="Iraqia Kurdish TV" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Kurdish",Iraqia Kurdish TV
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-id="ZarokTV" tvg-name="Zarok TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXb1fuStDyWH8J-B7mRfkvTxcgSlw-ddeZuBNqseQLiw&s=10" group-title="Kids",Zarok TV
+https://zindisorani.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ZarokTVK" tvg-name="Zarok TVK" tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="Kids",Zarok TVK
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="AfarinKids" tvg-name="Afarin Kids" tvg-logo="https://i.postimg.cc/2zyx7bRj/AKID.png" group-title="Kids",Afarin Kids
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfarinBaxcha" tvg-name="Afarin Baxcha TV" tvg-logo="https://i.postimg.cc/mTrjSq4N/baxcha.png" group-title="Kids",Afarin Baxcha TV
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="SpiKids" tvg-name="Spi Kids" tvg-logo="https://i.postimg.cc/nFJkFmgm/KIDS.png" group-title="Kids",Spi Kids
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-id="MMNKids" tvg-name="MMN KIDS" tvg-logo="https://i.postimg.cc/GdS0dL0X/mmnkid.png" group-title="Kids",MMN KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1 tvg-id="Kidco" tvg-name="KIDCO" tvg-logo="https://i.postimg.cc/37q1knCP/KIDCO.png" group-title="Kids",KIDCO
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 tvg-id="Spacetoons" tvg-name="SPACETOON" tvg-logo="" group-title="Kids",SPACETOON
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/ST_MENA_NEXT_720p.m3u8?pkg_media=video&pkg_alone=1&pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1
+#EXTINF:-1 tvg-id="SPIQuran" tvg-name="SPI Quran HD" tvg-logo="https://i.postimg.cc/VfgjzVjy/QURAN.png" group-title="Quran",SPI Quran HD
+https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="MMNQuran" tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/08wJZLfh/quran.png" group-title="Quran",MMN QURAN
+http://mmn.mypsx.net:1935/live/mmnhdquran/playlist.m3u8
+#EXTINF:-1 tvg-id="EmanHD" tvg-name="Eman HD" tvg-logo="https://i.postimg.cc/yB4Bc8M3/eman.png" group-title="Quran",Eman HD
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ESRAQuran" tvg-name="ESRA Quran HD" tvg-logo="https://i.postimg.cc/HdBJLdQZ/quranes-1.png" group-title="Quran",ESRA Quran HD
+https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
+#EXTINF:-1 tvg-id="SozQuran1" tvg-name="SOZ QURAN 1" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="Quran",SOZ QURAN 1
+http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
+#EXTINF:-1 tvg-id="IMKQuran" tvg-name="IMK QURAN HD" tvg-logo="https://i.postimg.cc/w6hM1JNc/IMK.png" group-title="Quran",IMK QURAN HD
+http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
+#EXTINF:-1 tvg-id="MMNSport" tvg-name="MMN SPORT" tvg-logo="https://i.postimg.cc/8NG9hZMg/MMNSPORT.png" group-title="KRD Sport",MMN SPORT
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1 tvg-id="NRTSport" tvg-name="NRT SPORTS" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="KRD Sport",NRT SPORTS
+http://familyku.me:2095/291142475920/16275591516967bdb3a0578/306786
+#EXTINF:-1 tvg-id="AVASport" tvg-name="AVA Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqdiJxIDQW9mD9q1wKv99J75n-dgWV_EHT2tvgIrbqw&s=10" group-title="KRD Sport",AVA Sport HD
+http://familyku.me:2095/291142475920/16275591516967bdb3a0578/306785
+#EXTINF:-1 tvg-id="IraqyaSports" tvg-name="Iraqya Sports" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="KRD Sport",Iraqya Sports
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1 tvg-id="AsteraSport" tvg-name="Astera Sport" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/astera-sport.png" group-title="KRD Sport",Astera Sport
+http://superp4.xyz/MP5Z6J8/VC5LNFM/54059
+#EXTINF:-1 tvg-id="AsoSport" tvg-name="Aso Sport" tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/05/ASO-Sport.png" group-title="KRD Sport",Aso Sport
+http://superp4.xyz/MP5Z6J8/VC5LNFM/771667
+#EXTINF:-1 tvg-id="DuhokSport" tvg-name="Duhok Sport" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/duhok-sport.png" group-title="KRD Sport",Duhok Sport
+http://superp4.xyz/MP5Z6J8/VC5LNFM/804064
